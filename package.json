@@ -1,0 +1,23 @@
+{
+    "name": "wt-next-js-dev-extensions",
+    "displayName": "WT Next.js Dev Extensions",
+    "description": "Extension pack to development team",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "editorconfig.editorconfig",
+        "apollographql.vscode-apollo",
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.vscode-typescript-next",
+        "graphql.vscode-graphql",
+        "bradlc.vscode-tailwindcss",
+        "wix.vscode-import-cost",
+        "ms-vsliveshare.vsliveshare",
+        "styled-components.vscode-styled-components"
+    ]
+}
