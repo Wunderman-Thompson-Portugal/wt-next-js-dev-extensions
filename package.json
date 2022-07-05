@@ -3,12 +3,16 @@
     "displayName": "WT Next.js Dev Extensions",
     "description": "Extension pack to development team",
     "version": "0.0.1",
+    "publisher": "WundermanThompsonPortugal",
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "url": "https://github.com/Wunderman-Thompson-Portugal/wt-next-js-dev-extensions"
+    },
     "extensionPack": [ 
         "editorconfig.editorconfig",
         "apollographql.vscode-apollo",
